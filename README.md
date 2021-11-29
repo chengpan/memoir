@@ -1,4 +1,2 @@
 # memoir
-
-# github
-cp1..6|md5
+- cp1..6|md5
